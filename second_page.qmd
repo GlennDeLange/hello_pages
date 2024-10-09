@@ -1,5 +1,5 @@
 ---
-title: "My first post"
+title: "My second post"
 ---
 
 ```{r}
@@ -7,11 +7,11 @@ library(reactable)
 ```
 
 ```{r}
-reactable(infert)
+reactable(iris)
 ```
 
 ```{r}
-plot(women)
+plot(iris)
 ```
 
 
